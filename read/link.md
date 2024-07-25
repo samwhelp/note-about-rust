@@ -21,6 +21,16 @@ has_children: false
 
 
 
+## Rust / Docs
+
+| Rust Docs |
+| --- |
+| [The Rust Programming Language](https://doc.rust-lang.org/book/) |
+| GitHub / rust / [book](https://github.com/rust-lang/book) |
+
+
+
+
 ## Rust / Crate
 
 ### Just
@@ -30,6 +40,14 @@ has_children: false
 | [Just](https://just.systems/) |
 | GitHub / [just](https://github.com/casey/just) |
 | [Just 探索筆記](https://samwhelp.github.io/note-about-just/) |
+
+
+### mdBook
+
+| mdBook |
+| --- |
+| [mdBook](https://rust-lang.github.io/mdBook/) |
+| GitHub / [mdBook](https://github.com/rust-lang/mdBook) |
 
 
 
