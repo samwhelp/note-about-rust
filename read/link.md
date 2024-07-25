@@ -27,6 +27,7 @@ has_children: false
 | --- |
 | [The Rust Programming Language](https://doc.rust-lang.org/book/) |
 | GitHub / rust / [book](https://github.com/rust-lang/book) |
+| [Rust 程式設計語言](https://rust-lang.tw/book-tw/ch00-00-introduction.html) |
 
 
 | Rust by Example |
