@@ -39,8 +39,7 @@ has_children: false
 | Rust語言聖經 |
 | --- |
 | [Rust語言聖經](https://course.rs/) |
-| GitHub / [rust-course](https://github.com/sunface/rust-course
-) |
+| GitHub / [rust-course](https://github.com/sunface/rust-course) |
 
 
 | Rust By Practice |
