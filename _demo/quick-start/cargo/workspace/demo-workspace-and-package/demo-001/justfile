@@ -1,0 +1,27 @@
+#!/usr/bin/env -S just --justfile
+# ^ A shebang isn't required, but allows a justfile to be executed
+#   like a script, with `./justfile test`, for example.
+
+
+
+default: help
+
+
+
+
+help:
+	@echo 'Usage:'
+	@echo '	$ just [action]'
+	@echo
+	@echo 'Ex:'
+	@echo '	$ just'
+	@echo '	$ just help'
+	@echo
+	@echo '	$ just build-book'
+	@echo
+
+
+
+
+build-book:
+	cargo run --package gen-book
