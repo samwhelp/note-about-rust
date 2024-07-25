@@ -33,8 +33,7 @@ has_children: false
 | Rust by Example |
 | --- |
 | [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/) |
-| GitHub / rust / [rust-by-example](https://github.com/rust-lang/rust-by-example
-) |
+| GitHub / rust / [rust-by-example](https://github.com/rust-lang/rust-by-example) |
 
 
 | Rust語言聖經 |
