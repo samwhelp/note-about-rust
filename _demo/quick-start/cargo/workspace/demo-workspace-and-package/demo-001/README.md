@@ -30,7 +30,7 @@ make build-book
 | just / crates / [generate-book](https://github.com/casey/just/tree/master/crates/generate-book) |
 
 
-> | just / [justfile](https://github.com/casey/just/blob/master/justfile#L176) |
+> just / [justfile](https://github.com/casey/just/blob/master/justfile#L176)
 
 ``` sh
 cargo run --package generate-book
