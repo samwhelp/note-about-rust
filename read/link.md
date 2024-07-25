@@ -23,10 +23,17 @@ has_children: false
 
 ## Rust / Docs
 
-| Rust Docs |
+| The Rust Programming Language |
 | --- |
 | [The Rust Programming Language](https://doc.rust-lang.org/book/) |
 | GitHub / rust / [book](https://github.com/rust-lang/book) |
+
+
+| Rust by Example |
+| --- |
+| [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/) |
+| GitHub / rust / [rust-by-example](https://github.com/rust-lang/rust-by-example
+) |
 
 
 
