@@ -15,3 +15,13 @@ parent: 連結
 | --- |
 | [Rust Taiwan](https://rust-lang.tw/) |
 | GitHub / [rust-tw](https://github.com/rust-tw/) |
+
+
+
+
+## Rust 中文社區
+
+| Rust 中文社區 |
+| --- |
+| [Rust 中文社區](https://rustcc.cn/) |
+| GitHub / [rustcc](https://github.com/rustcc) |
