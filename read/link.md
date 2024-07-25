@@ -21,6 +21,19 @@ has_children: false
 
 
 
+## Rust / Crate
+
+### Just
+
+| Just |
+| --- |
+| [Just](https://just.systems/) |
+| GitHub / [just](https://github.com/casey/just) |
+| [Just 探索筆記](https://samwhelp.github.io/note-about-just/) |
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
